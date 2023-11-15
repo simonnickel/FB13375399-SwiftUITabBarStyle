@@ -1,4 +1,4 @@
-#  FB13375399 - SwiftUI: TabBar tabItem should support foregroundStyle as ShapeStyle, not just Color
+#  FB13375399 - SwiftUI: TabView tabItem should support foregroundStyle as ShapeStyle, not just Color
 
 ## Scenario
 
